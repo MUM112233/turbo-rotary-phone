@@ -1,1 +1,2 @@
-# turbo-rotary-phone
+# Install via NPM
+npm install --save my-api
